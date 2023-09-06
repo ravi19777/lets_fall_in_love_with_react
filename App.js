@@ -1,5 +1,5 @@
-// import React from "react";
-// import { ReactDOM } from "react-dom";
+import React from "react";
+import ReactDOM  from "react-dom/client";
 
 // create an element in react
 const heading = React.createElement("h1",{id: 'heading'},"This is heading in React.js"); // This is create an object/react element (which is just a javascript object)
@@ -29,13 +29,13 @@ const root = ReactDOM.createRoot(document.getElementById('root')); // Now, this 
 
 const parent = React.createElement("div",{className: "Parent"},
                         React.createElement("div",{className: "Child"},
-                        React.createElement("h1",{className: "heading"},"This is the heading inside the child element")
+                        React.createElement("h1",{className: "heading"},"This is Namaste React 🚀")
                         )
                         );
 
 
                         // Now create two element inside the child element at a time
-                        const parent2 = React.createElement("div",{className: "Parent"},[React.createElement("h1",{className: "h1"},"This is the heading-one inside the parent element"), React.createElement("h2",{className: "h2"},"This is the heading-two inside the parent element")]);
+                        const parent2 = React.createElement("div",{className: "Parent"},[React.createElement("h1",{className: "h1"},"This is Namaste React 🚀"), React.createElement("h2",{className: "h2"},"This is the heading-two inside the parent element")]);
 
 // root.render(heading); // heading is the 'react-element' or simply a js object
 

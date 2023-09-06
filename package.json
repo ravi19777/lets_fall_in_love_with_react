@@ -1,0 +1,26 @@
+{
+  "name": "love_with_react",
+  "version": "1.0.0",
+  "description": "This is the full tutorial on react in depth",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi19777/lets_fall_in_love_with_react.git"
+  },
+  "author": "Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravi19777/lets_fall_in_love_with_react/issues"
+  },
+  "homepage": "https://github.com/ravi19777/lets_fall_in_love_with_react#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  }
+}
