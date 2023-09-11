@@ -19,13 +19,15 @@
   "homepage": "https://github.com/ravi19777/lets_fall_in_love_with_react#readme",
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router": "^6.15.0",
+    "react-router-dom": "^6.15.0"
   },
   "devDependencies": {
     "parcel": "^2.9.3",
     "process": "^0.11.10"
   },
-  "browserslist":[
+  "browserslist": [
     "last 2 version"
   ]
 }

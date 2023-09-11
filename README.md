@@ -43,3 +43,15 @@
 
 
 -- Explore more about 'npx parcel build index.html' later
+
+
+
+-- 🌟 What is config driven UI?
+
+
+
+
+
+-- 🌟 Why we need Key in React?
+
+-- 🌟 Why we should not use index as key while mapping ?
